@@ -1,6 +1,8 @@
 # Diabetes Health Indicators Classification
 This project aims to analyze and classify health indicators related to diabetes. Using various machine learning techniques, the project explores data, handles imbalanced classes, and evaluates multiple models to predict diabetes presence.
 
+Dataset Link: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
 ## Project Overview
 The primary goal of this project is to classify individuals based on health indicators to determine if they have diabetes. The project includes data preprocessing, exploratory data analysis, feature selection, handling imbalanced data, and model evaluation.
 
